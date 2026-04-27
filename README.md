@@ -4,12 +4,6 @@
 
 ---
 
-## 🎬 Demo Walkthrough
-
-> 📹 **[Loom video link — add yours here after recording]**
-
----
-
 ## 📌 Base Project
 
 **Original project:** `ai110-module3show-musicrecommendersimulation-starter`
