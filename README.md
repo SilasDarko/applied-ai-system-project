@@ -65,8 +65,6 @@ User input (natural language)
          └──► logs/app.log  (every step logged at DEBUG/INFO/WARNING)
 ```
 
-![System architecture diagram](assets/architecture.png)
-
 ---
 
 ## ✨ AI Features
