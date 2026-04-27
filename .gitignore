@@ -1,15 +1,33 @@
-# Byte compiled
+# Python
 __pycache__/
 *.py[cod]
 *.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
 
 # Virtual environments
 .venv/
-env/
 venv/
+env/
 
-# OS files
+# Logs (keep directory, ignore log files)
+logs/*.log
+
+# Environment variables — never commit API keys
+.env
+*.env
+
+# macOS
 .DS_Store
 
-# Pytest cache
+# pytest cache
 .pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
